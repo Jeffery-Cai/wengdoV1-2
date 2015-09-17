@@ -1,0 +1,55 @@
+.ad{
+margin-top: 101px;
+width: 100%;
+}
+.case_bg{
+	position: relative;
+}
+.case_bg img{
+	position: absolute;
+	left: 50%;
+	z-index: 999;
+	margin-left: -140px;
+}
+.content{
+margin-top: 30px;
+}
+.tab-content ul{
+   padding: 12px 19px!important;
+}
+.nav-tabs li a{
+border-radius: 0!important;
+padding: 4px 49px!important;
+}
+.news{
+}
+.news-day{
+float: right;
+}
+
+/*优秀滑动css*/
+  .picScroll{ margin:10px auto; text-align:center;  }
+.picScroll .bd ul{ width:100%;  float:left; padding-top:10px;  }
+.picScroll .bd li{ width:32%; float:left; font-size:14px; text-align:center;  }
+.picScroll .bd li a{-webkit-tap-highlight-color:rgba(0, 0, 0, 0); /* 取消链接高亮 */ }
+
+
+.picScroll .hd{ height:40px; line-height:40px; border-bottom:2px solid #80BD6D;overflow:hidden; text-align:left;  padding:0 10px;  }
+.picScroll .hd ul{ float:right; padding-top:16px;   }   
+.picScroll .hd li{ float:left; width:8px; height:8px; background:#D0D0D0; margin:0 5px; overflow:hidden; 
+-webkit-border-radius:8px; -moz-border-radius:8px; border-radius:8px; 
+}
+.picScroll .hd .on{ background:#80BD6D;  }
+.picScroll .prev,.picScroll .next{ display:block; float:right;  width:18px; height:18px;overflow:hidden; margin:11px 5px 0 5px;  }
+.picScroll .next{ background-position:-34px -7px; }
+.picScroll .prevStop{ background-position:-6px -40px; }
+.picScroll .nextStop{ background-position:-34px -40px; }
+.excellect{
+text-align: center;
+}
+
+.contact{
+    width: 100%;
+    background: #FBFBFB;
+    padding: 20px 0px;
+}

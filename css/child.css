@@ -1,0 +1,35 @@
+/*了解文豆css*/
+.about,.guestbook,.login-content,.case-content{
+	margin-top: 115px;
+}
+.nav-pills>li.active a{
+	color: #fff!important;
+	background: rgb(255, 161, 12)!important;
+}
+.about-img{
+	padding: 20px 0px;
+}
+
+/*客户留言css*/
+.guestbook,.login-content,.case-content{
+	padding-bottom: 20px;
+}
+
+
+/* case展示 */
+.case_img img{
+  width: 336px;
+  height: 217px;
+}
+
+
+/* 留言列表 */
+.meg-list ul{
+	margin:0;
+	padding: 0;
+}
+.meg-list li{
+	border-bottom: #ddd 1px solid;
+	margin-bottom: 20px;
+	font-size: 16px;
+}
